@@ -1,10 +1,10 @@
 
 # CzechGMVision
 
-Czech translation of GMVisionversion 2.0.4
+Czech translation of GM Vision version 2.0.4
 
 ## Popis
-Tento modul poskytuje českou lokalizaci pro GMVision verze 2.0.4. Obsahuje překlady základních textů aplikace.
+Tento modul poskytuje českou lokalizaci pro GM Vision verze 2.0.4. Obsahuje překlady základních textů aplikace.
 
 ## Instalace
 Pro instalaci modulu obvyklým způsobem můžeš použít následující odkaz ve Foundry VTT:
